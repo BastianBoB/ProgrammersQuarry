@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[37,)" 
+license="All rights reserved"
+
+[[mods]]
+modId="programmers_quarry"
+version="${file.jarVersion}"
+displayName="Programmers Quarry"
+credits="No"
+authors="DreckigesName"
+description='''
+Quarry you can program
+'''
